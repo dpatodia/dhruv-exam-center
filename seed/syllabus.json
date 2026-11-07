@@ -1,0 +1,801 @@
+{
+ "term": "Grade 6 · Term 1 · 2026-27",
+ "parentEmails": [
+  "dpatodia@gmail.com"
+ ],
+ "subjects": [
+  {
+   "id": "english-lang",
+   "name": "English Language",
+   "emoji": "✍️",
+   "color": "#ff6b6b",
+   "world_name": "Word Wasteland",
+   "sort": 1,
+   "practice_marks": 40,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 40,
+     "duration": "1 h 15 min",
+     "date": "2026-11-18",
+     "time": "09:00"
+    }
+   ],
+   "exam_notes": "Two sections: (1) Comprehension on an unseen passage you must write yourself (about 350-450 words, age-appropriate) with direct, indirect, quotation and personal-response questions; (2) Creative writing: a personal recount or story (choose one of two prompts). Mark creative writing on content, organisation, vocabulary and accuracy.",
+   "topics": [
+    [
+     "C1",
+     "Comprehension: direct questions",
+     2
+    ],
+    [
+     "C2",
+     "Comprehension: indirect / inference questions",
+     2
+    ],
+    [
+     "C3",
+     "Comprehension: quotation questions",
+     1.5
+    ],
+    [
+     "C4",
+     "Comprehension: personal response",
+     1.5
+    ],
+    [
+     "W1",
+     "Creative writing: personal recount",
+     2
+    ],
+    [
+     "W2",
+     "Creative writing: story writing",
+     2
+    ],
+    [
+     "W3",
+     "Vocabulary, spelling and punctuation",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "history",
+   "name": "History",
+   "emoji": "🏰",
+   "color": "#e0a458",
+   "world_name": "Time Fortress",
+   "sort": 2,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-18",
+     "time": "11:30"
+    }
+   ],
+   "exam_notes": "Cambridge-style history: mix of short factual recall, source-based questions (write a short source yourself), and explain/evaluate questions that need PEEL-style paragraphs.",
+   "topics": [
+    [
+     "M1",
+     "Mughal rulers and timeline",
+     2
+    ],
+    [
+     "M2",
+     "Mughal administration (mansabdari, revenue, provinces)",
+     2
+    ],
+    [
+     "M3",
+     "Mughal culture: art, architecture, literature, religion",
+     2
+    ],
+    [
+     "R1",
+     "Renaissance: meaning, causes and why Italy",
+     2
+    ],
+    [
+     "R2",
+     "Renaissance art, artists and humanism",
+     2
+    ],
+    [
+     "R3",
+     "Renaissance science, inventions and the printing press",
+     1.5
+    ],
+    [
+     "S1",
+     "Source skills and explaining significance",
+     1.5
+    ]
+   ]
+  },
+  {
+   "id": "maths",
+   "name": "Mathematics",
+   "emoji": "🧮",
+   "color": "#4dabf7",
+   "world_name": "Number Nebula",
+   "sort": 3,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-19",
+     "time": "09:00"
+    }
+   ],
+   "exam_notes": "Cambridge Lower Secondary Stage 7 style. Show working; award method marks. No calculator unless stated.",
+   "topics": [
+    [
+     "U1",
+     "Integers, square roots and cube roots",
+     2
+    ],
+    [
+     "U2",
+     "Expressions, formulae and equations",
+     2.5
+    ],
+    [
+     "U3",
+     "Place value and rounding",
+     1.5
+    ],
+    [
+     "U4",
+     "Decimals",
+     2
+    ],
+    [
+     "U7",
+     "Fractions",
+     2
+    ],
+    [
+     "U8",
+     "Shapes and symmetry",
+     1.5
+    ],
+    [
+     "U10",
+     "Percentages",
+     2
+    ]
+   ]
+  },
+  {
+   "id": "ict",
+   "name": "ICT",
+   "emoji": "🤖",
+   "color": "#22d3a6",
+   "world_name": "Robot Foundry",
+   "sort": 4,
+   "practice_marks": 60,
+   "papers": [
+    {
+     "name": "Written",
+     "marks": 40,
+     "duration": "1 h",
+     "date": "2026-11-20",
+     "time": "09:00"
+    },
+    {
+     "name": "Practical",
+     "marks": 20,
+     "duration": "45 min",
+     "date": "2026-11-20",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Every ICT practice paper is 40 theory (Introduction to Robots) + 20 practical (flowcharts on paper + Scratch). Flowchart questions are drawn on paper (type 'diagram'). Scratch has no >= block. Robots follow their program exactly and cannot guess; avoid saying robots 'never make mistakes'. Dhruv tends to give half-answers on keyword-marked questions, so mark schemes must be keyword-strict.",
+   "topics": [
+    [
+     "R1",
+     "What a robot is",
+     5,
+     "Theory"
+    ],
+    [
+     "R2",
+     "Humanoid vs non-humanoid",
+     7,
+     "Theory"
+    ],
+    [
+     "R3",
+     "Components: sensors, controller, actuators",
+     16,
+     "Theory"
+    ],
+    [
+     "R4",
+     "Task types: repetitive, dangerous, detailed",
+     9,
+     "Theory"
+    ],
+    [
+     "R5",
+     "Robots follow programs exactly",
+     3,
+     "Theory"
+    ],
+    [
+     "P1",
+     "Flowchart symbols",
+     3,
+     "Practical"
+    ],
+    [
+     "P2",
+     "Sequence",
+     4,
+     "Practical"
+    ],
+    [
+     "P3",
+     "Selection (flowchart + Scratch)",
+     6,
+     "Practical"
+    ],
+    [
+     "P4",
+     "Iteration: predicting output",
+     3,
+     "Practical"
+    ],
+    [
+     "P5",
+     "Iteration: Scratch loops",
+     4,
+     "Practical"
+    ]
+   ]
+  },
+  {
+   "id": "english-lit",
+   "name": "English Literature",
+   "emoji": "📜",
+   "color": "#c084fc",
+   "world_name": "Story Keep",
+   "sort": 5,
+   "practice_marks": 30,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 30,
+     "duration": "1 h",
+     "date": "2026-11-23",
+     "time": "09:00"
+    }
+   ],
+   "exam_notes": "SCHOOL FORMAT (from the CIS Lit Scheduled Test and Term 1 revision class): three sections, one per studied text, each with (1) a PEEL question worth 5 marks, marked P=1, first E (quotation)=1, second E (explanation, two separate points)=2, L=1, and (2) a personal-response question worth 5 marks (clear opinion, reasons, a quotation from the text, explanation, personal link). Section A: Emily Dickinson, 'Hope' is the thing with feathers (public domain: print the whole poem). Section B: Bob Dylan 'Blowin' in the Wind' and John Lennon 'Imagine' (do NOT print lyrics; Dhruv quotes short phrases from memory). Section C: R.K. Narayan, 'A Snake in the Grass' (do NOT print the story; refer to characters and moments, e.g. Dasa, the family; he quotes from memory). No unseen texts, no MCQs, no device-spotting drills. Questions should mirror the class revision questions in the handouts.",
+   "topics": [
+    [
+     "L2",
+     "Unit 2: Appreciating poetry (devices, tone, imagery)",
+     2
+    ],
+    [
+     "L3",
+     "Unit 3: Bob Dylan vs John Lennon lyrics — comparison",
+     2
+    ],
+    [
+     "L4",
+     "Unit 4: A Snake in the Grass — storytelling",
+     2
+    ],
+    [
+     "L5",
+     "PEEL paragraph technique",
+     2
+    ],
+    [
+     "L6",
+     "Personal response",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "geography",
+   "name": "Geography",
+   "emoji": "🌋",
+   "color": "#f59f00",
+   "world_name": "Planet Core",
+   "sort": 6,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-23",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Cambridge-style geography with labelled-diagram questions (type 'diagram'), data/figure interpretation and explain questions.",
+   "topics": [
+    [
+     "G1",
+     "Lithosphere: Earth's structure and plates",
+     2
+    ],
+    [
+     "G2",
+     "Lithosphere: rocks, weathering and landforms",
+     2
+    ],
+    [
+     "G3",
+     "Lithosphere: earthquakes and volcanoes",
+     2
+    ],
+    [
+     "G4",
+     "Atmosphere: layers and composition",
+     2
+    ],
+    [
+     "G5",
+     "Atmosphere: weather, climate, pressure and winds",
+     2
+    ]
+   ]
+  },
+  {
+   "id": "physics",
+   "name": "Physics",
+   "emoji": "🚀",
+   "color": "#5c7cfa",
+   "world_name": "Force Field",
+   "sort": 7,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-24",
+     "time": "09:00",
+     "notes": "10 MCQs + 40 structured"
+    },
+    {
+     "name": "Approaches to Practical",
+     "marks": 25,
+     "duration": "30 min",
+     "date": "2026-11-30",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Theory = 10 MCQs (10 marks) + structured questions (40 marks). Include unit/working marks.",
+   "topics": [
+    [
+     "F1",
+     "Physical quantities and units",
+     1.5
+    ],
+    [
+     "F2",
+     "Scalar and vector quantities",
+     1.5
+    ],
+    [
+     "F3",
+     "Resultant vectors",
+     1.5
+    ],
+    [
+     "F4",
+     "Introduction to forces (2.1)",
+     2
+    ],
+    [
+     "F5",
+     "Gravity, mass and weight (2.2)",
+     2
+    ],
+    [
+     "F6",
+     "Air resistance and streamlining (2.4)",
+     1.5
+    ],
+    [
+     "X1",
+     "Practical: measuring length (ruler, set-square)",
+     1,
+     "Practical"
+    ],
+    [
+     "X2",
+     "Practical: volume and mass of regular/irregular objects",
+     1,
+     "Practical"
+    ],
+    [
+     "X3",
+     "Practical: thickness and diameter",
+     1,
+     "Practical"
+    ]
+   ]
+  },
+  {
+   "id": "drama",
+   "name": "Drama",
+   "emoji": "🎭",
+   "color": "#f06595",
+   "world_name": "Stage Arena",
+   "sort": 8,
+   "practice_marks": 20,
+   "active": false,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 20,
+     "duration": "1 h",
+     "date": "2026-11-24",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Script writing on a given topic: format (character names, stage directions in brackets), dialogue, conflict and resolution.",
+   "topics": [
+    [
+     "D1",
+     "Script format and stage directions",
+     1
+    ],
+    [
+     "D2",
+     "Dialogue and characters",
+     1
+    ],
+    [
+     "D3",
+     "Plot: conflict and resolution",
+     1
+    ]
+   ]
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "emoji": "⚗️",
+   "color": "#20c997",
+   "world_name": "Element Lab",
+   "sort": 9,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-26",
+     "time": "09:00",
+     "notes": "10 MCQs + 40 structured"
+    },
+    {
+     "name": "Approaches to Practical",
+     "marks": 25,
+     "duration": "30 min",
+     "date": "2026-11-30",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Theory = 10 MCQs (10 marks) + structured questions (40 marks).",
+   "topics": [
+    [
+     "C1",
+     "Elements and the Periodic Table (2.1)",
+     1.5
+    ],
+    [
+     "C2",
+     "Chemical symbols (2.3)",
+     1
+    ],
+    [
+     "C3",
+     "Atoms (2.4)",
+     1
+    ],
+    [
+     "C4",
+     "Compounds and naming (2.6, 2.7)",
+     1.5
+    ],
+    [
+     "C5",
+     "Chemical formulae (2.8)",
+     1.5
+    ],
+    [
+     "C6",
+     "Mixtures and solutions (2.9, 2.10)",
+     1.5
+    ],
+    [
+     "C7",
+     "Comparing elements, mixtures, compounds (2.11)",
+     1
+    ],
+    [
+     "C8",
+     "Metals and alloys (3.1, 3.3)",
+     1.5
+    ],
+    [
+     "C9",
+     "Non-metals and explaining properties (3.4, 3.5)",
+     1.5
+    ],
+    [
+     "Y1",
+     "Practical: hazard symbols and apparatus",
+     1,
+     "Practical"
+    ],
+    [
+     "Y2",
+     "Practical: boiling point investigation",
+     1,
+     "Practical"
+    ],
+    [
+     "Y3",
+     "Practical: Bunsen burner and flame test",
+     1,
+     "Practical"
+    ]
+   ]
+  },
+  {
+   "id": "spanish",
+   "name": "Spanish",
+   "emoji": "💃",
+   "color": "#ff922b",
+   "world_name": "Fiesta Island",
+   "sort": 10,
+   "papers": [
+    {
+     "name": "Listening",
+     "marks": 10,
+     "duration": "10 min",
+     "date": "2026-11-16",
+     "time": "10:30"
+    },
+    {
+     "name": "Oral",
+     "marks": 10,
+     "duration": "5 min",
+     "date": "2026-11-19",
+     "time": "11:15"
+    },
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-26",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Theory paper only (listening and oral cannot be practised here). Unseen reading comprehension, grammar, and an unseen paragraph on the given topics. Instructions in English, content in Spanish.",
+   "topics": [
+    [
+     "S1",
+     "Vocabulary: time expressions",
+     1
+    ],
+    [
+     "S2",
+     "Vocabulary: food and drinks",
+     1
+    ],
+    [
+     "S3",
+     "Vocabulary: human body",
+     1
+    ],
+    [
+     "S4",
+     "Vocabulary: travel and transport",
+     1
+    ],
+    [
+     "S5",
+     "Reading comprehension (unseen)",
+     2
+    ],
+    [
+     "S6",
+     "Present tense: regular verbs",
+     1.5
+    ],
+    [
+     "S7",
+     "Present tense: irregular verbs",
+     1.5
+    ],
+    [
+     "S8",
+     "Present continuous",
+     1
+    ],
+    [
+     "S9",
+     "Ser vs estar",
+     1.5
+    ],
+    [
+     "S10",
+     "Paragraph writing",
+     2
+    ],
+    [
+     "L1",
+     "Listening comprehension",
+     1,
+     "Listening"
+    ]
+   ]
+  },
+  {
+   "id": "hindi",
+   "name": "Hindi",
+   "emoji": "🪔",
+   "color": "#fab005",
+   "world_name": "Akshar Kingdom",
+   "sort": 11,
+   "practice_marks": 40,
+   "papers": [
+    {
+     "name": "Listening",
+     "marks": 10,
+     "duration": "30 min",
+     "date": "2026-11-16",
+     "time": "09:20"
+    },
+    {
+     "name": "Theory",
+     "marks": 40,
+     "duration": "1 h",
+     "date": "2026-11-27",
+     "time": "09:00"
+    }
+   ],
+   "exam_notes": "Write questions in Hindi (Devanagari). Seen comprehension is based on the school texts — if no handout notes are available, ask about meanings, sentence construction and themes rather than inventing passage text.",
+   "topics": [
+    [
+     "H1",
+     "Vakyanshon ke liye ek shabd (one-word substitution)",
+     1.5
+    ],
+    [
+     "H2",
+     "Paryayvachi shabd (synonyms)",
+     1.5
+    ],
+    [
+     "H3",
+     "Prose: Abdul Kalam Ka Sapna",
+     1.5
+    ],
+    [
+     "H4",
+     "Prose: Raja Aur Uske Bhramak Shabd",
+     1.5
+    ],
+    [
+     "H5",
+     "Poem: Akshar Naach Uthe",
+     1.5
+    ],
+    [
+     "H6",
+     "Chitra Varnan (picture description)",
+     1.5
+    ],
+    [
+     "H7",
+     "Samvaad Lekhan (dialogue writing)",
+     1.5
+    ],
+    [
+     "L1",
+     "Listening comprehension (Shravan)",
+     1,
+     "Listening"
+    ]
+   ]
+  },
+  {
+   "id": "biology",
+   "name": "Biology",
+   "emoji": "🧬",
+   "color": "#51cf66",
+   "world_name": "Cell City",
+   "sort": 12,
+   "papers": [
+    {
+     "name": "Theory",
+     "marks": 50,
+     "duration": "1 h",
+     "date": "2026-11-30",
+     "time": "09:00",
+     "notes": "10 MCQs + 40 structured"
+    },
+    {
+     "name": "Approaches to Practical",
+     "marks": 25,
+     "duration": "30 min",
+     "date": "2026-11-30",
+     "time": "11:15"
+    }
+   ],
+   "exam_notes": "Theory = 10 MCQs (10 marks) + structured questions (40 marks). Include at least one dichotomous key question.",
+   "topics": [
+    [
+     "B1",
+     "Specialised animal and plant cells",
+     1.5
+    ],
+    [
+     "B2",
+     "Tissues and organs in animals",
+     1.5
+    ],
+    [
+     "B3",
+     "Classification and species",
+     1
+    ],
+    [
+     "B4",
+     "Classifying invertebrates",
+     1.5
+    ],
+    [
+     "B5",
+     "Dichotomous keys",
+     1.5
+    ],
+    [
+     "B6",
+     "Classifying vertebrates",
+     1.5
+    ],
+    [
+     "B7",
+     "Classifying plants",
+     1
+    ],
+    [
+     "B8",
+     "Microorganisms: kinds, friends and diseases",
+     1.5
+    ],
+    [
+     "B9",
+     "Preventing disease, decomposers and food chains",
+     1.5
+    ],
+    [
+     "Z1",
+     "Practical: onion peel cells under the microscope",
+     1,
+     "Practical"
+    ],
+    [
+     "Z2",
+     "Practical: specimens, adaptations and keys",
+     1,
+     "Practical"
+    ]
+   ]
+  }
+ ]
+}
