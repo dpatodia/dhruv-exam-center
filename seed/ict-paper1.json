@@ -1,0 +1,509 @@
+{
+ "id": "00000000-0000-4000-8000-000000000001",
+ "subject_id": "ict",
+ "title": "ICT Paper 1 · Foundational (Robots + Flowcharts & Scratch)",
+ "level": "foundational",
+ "total_marks": 60,
+ "duration_min": 105,
+ "source": "seed",
+ "instructions": "Theory (40) then Practical (20). Marks in [brackets] tell you how many points to write: a 3-mark question needs 3 separate points. Use the correct ICT words. Flowcharts: pencil and ruler, label every decision arrow Yes/No. Scratch questions: build in Scratch, then describe your blocks in the answer box or upload a screenshot.",
+ "questions": [
+  {
+   "id": "q1",
+   "number": "1",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R1",
+   "prompt": "A robot is best described as:",
+   "options": [
+    "any machine that has a motor",
+    "a programmable machine that completes a task by replacing human effort",
+    "a computer that thinks like a human",
+    "a toy that looks like a person"
+   ],
+   "answer": "b"
+  },
+  {
+   "id": "q2",
+   "number": "2",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R1",
+   "prompt": "The field of study focused on developing robots and automation is called:",
+   "options": [
+    "Robotics",
+    "Mechanics",
+    "Electronics",
+    "Automatics"
+   ],
+   "answer": "a"
+  },
+  {
+   "id": "q3",
+   "number": "3",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "Which part of a robot is known as its \"brain\"?",
+   "options": [
+    "Sensor",
+    "Actuator",
+    "Controller",
+    "Bumper"
+   ],
+   "answer": "c"
+  },
+  {
+   "id": "q4",
+   "number": "4",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "Actuators are like a robot's:",
+   "options": [
+    "eyes",
+    "muscles",
+    "brain",
+    "ears"
+   ],
+   "answer": "b"
+  },
+  {
+   "id": "q5",
+   "number": "5",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "Which sensor tells a robot how close an object is?",
+   "options": [
+    "Pressure sensor",
+    "Light sensor",
+    "Proximity sensor",
+    "Chemical sensor"
+   ],
+   "answer": "c"
+  },
+  {
+   "id": "q6",
+   "number": "6",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R2",
+   "prompt": "A robot built with a head, torso, arms and legs is called a:",
+   "options": [
+    "non-humanoid robot",
+    "humanoid robot",
+    "rover",
+    "robotic arm"
+   ],
+   "answer": "b"
+  },
+  {
+   "id": "q7",
+   "number": "7",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R2",
+   "prompt": "Which of these is a non-humanoid robot?",
+   "options": [
+    "a robot with a human-like face that talks",
+    "a robotic arm that bolts wheels onto cars",
+    "a robot that walks on two legs",
+    "a robot shaped like a person that greets visitors"
+   ],
+   "answer": "b"
+  },
+  {
+   "id": "q8",
+   "number": "8",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R4",
+   "prompt": "Making microprocessors is an example of which type of task?",
+   "options": [
+    "Repetitive",
+    "Dangerous",
+    "Detailed",
+    "Creative"
+   ],
+   "answer": "c"
+  },
+  {
+   "id": "q9",
+   "number": "9",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R4",
+   "prompt": "Sojourner, the robot sent to explore Mars, is an example of a robot doing:",
+   "options": [
+    "detailed work",
+    "dangerous work",
+    "repetitive work",
+    "household work"
+   ],
+   "answer": "b"
+  },
+  {
+   "id": "q10",
+   "number": "10",
+   "section": "A · Multiple choice",
+   "type": "mcq",
+   "marks": 1,
+   "topic": "R1",
+   "prompt": "Once a robot has been programmed, when is a human needed?",
+   "options": [
+    "to give the robot a rest",
+    "to remind it of the steps every hour",
+    "only if the robot develops a fault",
+    "to help it make decisions"
+   ],
+   "answer": "c"
+  },
+  {
+   "id": "q11",
+   "number": "11",
+   "section": "B · Fill in the blanks",
+   "type": "fill",
+   "marks": 1,
+   "topic": "R1",
+   "prompt": "Word box (some words are NOT used): programmable · humanoid · sensors · controller · actuators · repetitive · bumpers · chemicals · dangerous · cameras\n\nRobots are ________ machines.",
+   "answer": "programmable"
+  },
+  {
+   "id": "q12",
+   "number": "12",
+   "section": "B · Fill in the blanks",
+   "type": "fill",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "________ give a robot information about its surroundings.",
+   "answer": "Sensors"
+  },
+  {
+   "id": "q13",
+   "number": "13",
+   "section": "B · Fill in the blanks",
+   "type": "fill",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "________ tell a robot that it has collided with something.",
+   "answer": "Bumpers"
+  },
+  {
+   "id": "q14",
+   "number": "14",
+   "section": "B · Fill in the blanks",
+   "type": "fill",
+   "marks": 1,
+   "topic": "R4",
+   "prompt": "Bolting 8,000 wheels onto cars every day is an example of a ________ task.",
+   "answer": "repetitive"
+  },
+  {
+   "id": "q15",
+   "number": "15",
+   "section": "B · Fill in the blanks",
+   "type": "fill",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "Sensors that detect ________ give a robot its sense of smell and taste.",
+   "answer": "chemicals"
+  },
+  {
+   "id": "q16",
+   "number": "16",
+   "section": "C · True or False",
+   "type": "truefalse",
+   "marks": 1,
+   "topic": "R2",
+   "prompt": "A robot must look like a human.",
+   "answer": "False"
+  },
+  {
+   "id": "q17",
+   "number": "17",
+   "section": "C · True or False",
+   "type": "truefalse",
+   "marks": 1,
+   "topic": "R5",
+   "prompt": "A robot can think and make its own decisions, just like a human.",
+   "answer": "False",
+   "explanation": "Handout: a robot cannot think like a human; it carries out whatever instructions it has been programmed to do."
+  },
+  {
+   "id": "q18",
+   "number": "18",
+   "section": "C · True or False",
+   "type": "truefalse",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "Video cameras give a robot sight.",
+   "answer": "True"
+  },
+  {
+   "id": "q19",
+   "number": "19",
+   "section": "C · True or False",
+   "type": "truefalse",
+   "marks": 1,
+   "topic": "R4",
+   "prompt": "Robots are used under the sea to inspect and repair oil rigs.",
+   "answer": "True"
+  },
+  {
+   "id": "q20",
+   "number": "20",
+   "section": "C · True or False",
+   "type": "truefalse",
+   "marks": 1,
+   "topic": "R4",
+   "prompt": "A robot gets tired and bored if it does the same job many times.",
+   "answer": "False"
+  },
+  {
+   "id": "q21",
+   "number": "21",
+   "section": "D · Matching",
+   "type": "short",
+   "marks": 5,
+   "topic": "R3",
+   "prompt": "Match each part (a–e) to its job (i–v). Write e.g. a–iv.\nColumn A: a. Controller · b. Actuator · c. Pressure sensor · d. Proximity sensor · e. Video camera\nColumn B: i. Lets the robot know it is touching something · ii. Gives the robot sight · iii. Tells the robot how close an object is · iv. Gets input from sensors, makes decisions and sends commands · v. Converts energy into motion, like a muscle",
+   "answer": "a–iv, b–v, c–i, d–iii, e–ii",
+   "markScheme": [
+    "1 mark for each correct pair"
+   ]
+  },
+  {
+   "id": "q22a",
+   "number": "22(a)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 1,
+   "topic": "R1",
+   "prompt": "What is a robot?",
+   "answer": "A programmable machine that completes a task by replacing human effort.",
+   "markScheme": [
+    "Must say programmable/programmed. 'A machine that does work' = 0."
+   ]
+  },
+  {
+   "id": "q22b",
+   "number": "22(b)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 2,
+   "topic": "R4",
+   "prompt": "Give two reasons why a robot is better than a human at a repetitive job, such as bolting wheels onto cars.",
+   "answer": "Any two: does not get bored; does not get tired; no mistakes from tiredness; does not get injured; works continuously / the same way every time.",
+   "markScheme": [
+    "1 mark per different reason",
+    "Two versions of the same idea = 1 mark only"
+   ]
+  },
+  {
+   "id": "q23a",
+   "number": "23(a)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 2,
+   "topic": "R2",
+   "prompt": "State two differences between a humanoid robot and a non-humanoid robot.",
+   "answer": "Humanoid looks like/mimics a human (head, torso, arms, legs); non-humanoid does not. Humanoid is built to interact/work alongside humans; non-humanoid is shaped for a specific task or environment.",
+   "markScheme": [
+    "Each difference must compare BOTH types",
+    "'Humanoid looks like a human' alone = half at most"
+   ]
+  },
+  {
+   "id": "q23b",
+   "number": "23(b)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 2,
+   "topic": "R2",
+   "prompt": "Give one example of each: a humanoid robot and a non-humanoid robot.",
+   "answer": "Humanoid: ASIMO, Sophia, any human-shaped robot. Non-humanoid: robotic arm in a car factory, robot vacuum, Mars rover (Sojourner).",
+   "markScheme": [
+    "1 + 1"
+   ]
+  },
+  {
+   "id": "q24a",
+   "number": "24(a)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 1,
+   "topic": "R3",
+   "prompt": "\"A robot vacuum cleaner keeps crashing into furniture and does not avoid obstacles.\" Which part of the robot is most likely not working?",
+   "answer": "The sensor (proximity sensor / bumper).",
+   "markScheme": [
+    "'Controller' or 'motor' = 0"
+   ]
+  },
+  {
+   "id": "q24b",
+   "number": "24(b)",
+   "section": "E · Short answers",
+   "type": "long",
+   "marks": 3,
+   "topic": "R3",
+   "prompt": "Explain how the robot vacuum should avoid the furniture when it is working properly. Use the words sensor, controller and actuator.",
+   "answer": "The sensor detects the furniture/obstacle → the controller receives this input and decides to change direction → the controller sends a command to the actuators/motors, which turn or stop the robot.",
+   "markScheme": [
+    "1 mark for each component correctly placed in the chain sensor → controller → actuator",
+    "If the actuator 'decides', no mark for that link"
+   ]
+  },
+  {
+   "id": "q25a",
+   "number": "25(a)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 2,
+   "topic": "R5",
+   "prompt": "\"A robot in a laboratory is programmed to mix chemicals. One day, because of a mistake in its program, it mixes the wrong chemicals.\" The robot did not notice or correct its own mistake. Why not?",
+   "answer": "A robot cannot think for itself / cannot guess (1); it follows its program exactly, even when the program is wrong (1).",
+   "markScheme": [
+    "1: cannot think/guess",
+    "1: follows its program exactly"
+   ]
+  },
+  {
+   "id": "q25b",
+   "number": "25(b)",
+   "section": "E · Short answers",
+   "type": "short",
+   "marks": 2,
+   "topic": "R4",
+   "prompt": "Give one reason why a robot, rather than a human, is used to mix chemicals in a laboratory.",
+   "answer": "Chemicals can be dangerous/harmful to humans (1) — the robot can work in an unsafe environment without being hurt (1). Also accept: more accurate at measuring (detailed work).",
+   "markScheme": [
+    "'Robots are better' with no reason = 0"
+   ]
+  },
+  {
+   "id": "p1",
+   "number": "P1",
+   "section": "Practical · Flowcharts (draw on paper)",
+   "type": "diagram",
+   "marks": 3,
+   "topic": "P1",
+   "prompt": "Draw the flowchart symbol for each, and name it: (a) Start / Stop (b) Input / Output (c) A question or condition to check.",
+   "answer": "(a) Oval / rounded rectangle (terminator) (b) Parallelogram (c) Diamond (decision)",
+   "markScheme": [
+    "1 mark each: shape drawn AND named",
+    "Rectangle for (b) = 0"
+   ]
+  },
+  {
+   "id": "p2",
+   "number": "P2",
+   "section": "Practical · Flowcharts (draw on paper)",
+   "type": "diagram",
+   "marks": 4,
+   "topic": "P2",
+   "prompt": "Draw a flowchart to convert hours into minutes: input hours (variable 'hours'), calculate minutes = hours * 60, display minutes.",
+   "answer": "Start (oval) → Input hours (parallelogram) → minutes = hours * 60 (rectangle) → Display minutes (parallelogram) → Stop (oval), with arrows.",
+   "markScheme": [
+    "1 Start + Stop ovals",
+    "1 input in a parallelogram using 'hours'",
+    "1 calculation in a rectangle",
+    "1 output in a parallelogram",
+    "Missing arrows: −1 overall"
+   ]
+  },
+  {
+   "id": "p3a",
+   "number": "P3(a)",
+   "section": "Practical · Selection",
+   "type": "diagram",
+   "marks": 3,
+   "topic": "P3",
+   "prompt": "A program asks for today's temperature. If it is greater than 30 it displays \"Hot day\", otherwise \"Cool day\". Draw the flowchart (label Yes and No).",
+   "answer": "Start → Input temperature (parallelogram) → Is temperature > 30? (diamond) → Yes: Display \"Hot day\" / No: Display \"Cool day\" (parallelograms) → Stop.",
+   "markScheme": [
+    "1 input in a parallelogram",
+    "1 diamond with correct condition AND Yes/No labelled",
+    "1 both outputs on the correct branches, leading to Stop"
+   ]
+  },
+  {
+   "id": "p3b",
+   "number": "P3(b)",
+   "section": "Practical · Selection",
+   "type": "long",
+   "marks": 3,
+   "topic": "P3",
+   "prompt": "Convert your flowchart into a Scratch program. List the blocks you used in order (or upload a screenshot). What does the sprite say for 35? For 20?",
+   "answer": "when green flag clicked → ask [Enter the temperature] and wait → if <(answer) > 30> then say [Hot day] else say [Cool day]. 35 → Hot day, 20 → Cool day.",
+   "markScheme": [
+    "1 uses ask + answer",
+    "1 if-then-else with answer > 30",
+    "1 both say blocks in the correct slots",
+    "Two separate if blocks that work = 2/3"
+   ]
+  },
+  {
+   "id": "p4a",
+   "number": "P4(a)",
+   "section": "Practical · Iteration",
+   "type": "short",
+   "marks": 2,
+   "topic": "P4",
+   "prompt": "Flowchart: Start → counter = 1 → Is counter <= 3? → Yes: Print counter * 2 → counter = counter + 1 → back to the question. No → Stop. Write everything it prints, in order.",
+   "answer": "2, 4, 6",
+   "markScheme": [
+    "2 marks all three in order; 1 mark for two correct values",
+    "'1, 2, 3' or '2, 4, 6, 8' are common wrong answers"
+   ]
+  },
+  {
+   "id": "p4b",
+   "number": "P4(b)",
+   "section": "Practical · Iteration",
+   "type": "short",
+   "marks": 1,
+   "topic": "P4",
+   "prompt": "How many times will the Print step run?",
+   "answer": "3 times"
+  },
+  {
+   "id": "p5a",
+   "number": "P5(a)",
+   "section": "Practical · Scratch loop",
+   "type": "long",
+   "marks": 3,
+   "topic": "P5",
+   "prompt": "Build a Scratch program that asks for the user's name, then makes the sprite say the name exactly 3 times, 1 second each, using a loop. List your blocks in order (or upload a screenshot).",
+   "answer": "when green flag clicked → ask [What is your name?] and wait → repeat (3) { say (answer) for (1) seconds }",
+   "markScheme": [
+    "1 ask + answer used",
+    "1 repeat 3 loop",
+    "1 say answer for 1 second inside the loop",
+    "Three separate say blocks with no loop = 1/3 max; 'forever' = 0 for the loop mark"
+   ]
+  },
+  {
+   "id": "p5b",
+   "number": "P5(b)",
+   "section": "Practical · Scratch loop",
+   "type": "short",
+   "marks": 1,
+   "topic": "P5",
+   "prompt": "Scratch has three loop blocks: repeat, repeat until and forever. Which one did you use, and why is it the best choice?",
+   "answer": "Repeat (repeat X times) — because we know exactly how many times the action must happen (3).",
+   "markScheme": [
+    "Must give the reason, not just name the block"
+   ]
+  }
+ ]
+}
